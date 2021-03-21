@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 47.116.128.174
+    port: 5672
+    username: zdl
+    password: 2021
+    virtual-host: /demo
+server:
+  port: 8082
